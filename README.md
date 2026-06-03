@@ -49,10 +49,12 @@ and 66.08% F1-Score and is recommended for deployment.
 ## Files in This Repository
 - telecom_customer_churn.csv — Main dataset
 - TASK3_DATA_PREPROCESSING.rmp — RapidMiner preprocessing process
+- Task 4 - Part1- Split Data
 - TASK4_DECISION_TREE.rmp — Decision Tree model
 - TASK4_RANDOM_FOREST.rmp — Random Forest model
 - TASK4_ENSEMBLE.rmp — Ensemble Bagging model
 - IT8416_Project_Report.docx — Full project report
+- Demo video with audio support
 
 ## Course Information
 - Course: IT8416 Data Mining
